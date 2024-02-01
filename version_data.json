@@ -1,14 +1,14 @@
 {
    "date":"30-1-2024",
-   "apk_name":"ecp_app_30jan.apk",
-   "v7_apk_download_file_path":"https://nadra.com.pk/v7_apk",
-   "v8_apk_download_file_path":" https://nadra.com.pk/v7_apk ",
-   "generic_apk_download_file_path":"generic_apk",
+   "apk_name":"ecp_app_update_try_30_jan_2024.apk",
+   "v7_apk_download_file_path":"http://192.168.110.61/app/ecp_app_update_try_30_jan_2024.apk",
+   "v8_apk_download_file_path":"http://192.168.110.61/app/ecp_app_update_try_30_jan_2024.apk",
+   "generic_apk_download_file_path":"http://192.168.110.61/app/ecp_app_update_try_30_jan_2024.apk",
    "android_version":"15",
    "ios_version":"13",
    "whats_new":"Bug Fixing\nResolved Service Issue",
    "is_necessary":"0",
-   "v7_apk_file_size":"14.458984375",
+   "v7_apk_file_size":"15.3",
    "v8_apk_file_size":"18.5",
    "generic_apk_file_size ":"50.8"
 }
